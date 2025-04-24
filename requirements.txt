@@ -1,0 +1,8 @@
+# External packages required for the application
+pyautogui==0.9.54  # For taking screenshots and mouse control
+tkcalendar==1.6.1  # For the date picker widget
+
+
+
+datetime # For timestamp and date operations
+  # For file and directory operations 
